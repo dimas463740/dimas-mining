@@ -1,0 +1,2 @@
+# dimas-mining
+Litcoin
